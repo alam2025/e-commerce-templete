@@ -29,3 +29,45 @@
     background-color: #350623;
     color: #f391c2;
 }
+
+@media (max-width:991px) {
+    .slider-image{
+        width: 100%;
+        height: 300px;
+    }
+    .btn-shop{
+       
+        padding:  6px 20px;
+        border-radius: 10px;
+        
+    }
+    .btn-learn{
+    
+        padding:  6px 20px;
+        border-radius: 10px;
+        
+    }
+    
+}
+
+@media (max-width:650px) {
+    .slider-image{
+        width: 100%;
+        height: 200px;
+    }
+    .btn-shop{
+       
+        padding:  4px 12px;
+        border-radius: 5px;
+        font-size: 10px;
+        
+    }
+    .btn-learn{
+    
+        padding:  4px 12px;
+        border-radius: 5px;
+        font-size: 10px;
+        
+    }
+    
+}
