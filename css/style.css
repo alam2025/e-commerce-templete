@@ -1,0 +1,31 @@
+.slider-image{
+    width: 100%;
+    height: 400px;
+}
+.b-radius{
+    border-radius: 10px;
+}
+.btn-shop{
+    background-color: #611ae4;
+    padding:  8px 30px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bolder;
+    border: none;
+}
+.btn-learn{
+    background-color: #e41aa7;
+    padding:  8px 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-weight: bolder;
+}
+.btn-shop:hover{
+    background-color: #160635;
+    color: #e41aa7;
+}
+.btn-learn:hover{
+    background-color: #350623;
+    color: #f391c2;
+}
