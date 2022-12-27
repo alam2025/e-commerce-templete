@@ -119,10 +119,25 @@
 }
 
 footer{
-    background-color: #f7f4f9;
+    background-color: #1d1c1e;
     padding: 5%;
     padding-left: 10%;
+    color: white;
     
+}
+.active{
+    color: #f238fc !important;
+}
+
+.in-b{
+    border-right: none !important;
+    border-top-left-radius: 5px 0 0 5px;
+}
+
+ul>li>a:hover{
+background-color: gray;
+border-radius: 10px;
+padding: 6px;
 }
 
  
