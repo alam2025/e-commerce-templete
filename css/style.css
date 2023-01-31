@@ -83,7 +83,7 @@
 
 
 .f-card:hover {
-    outline: 2px solid yellowgreen;
+    outline: 2px solid rgb(157, 159, 154);
    transform: scale(1.1);
    transition: transform 2s ease-in-out;
     box-shadow: 0 24px 36px rgba(0, 0, 0, 0.11),
